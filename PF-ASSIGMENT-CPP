@@ -1,0 +1,62 @@
+INTRODUCTION: this is an implementation assignment of 30 programs.
+LANGUAGE: I implemented this assignment in c++.
+LIST OF PROGRAMS IS:
+1.program1.cpp:assign values to three variables
+
+2.program2.cpp:print message
+
+3.program3.cpp:interchage the values
+
+4.program4.cpp:calculate number of months
+
+5.program5.cpp:calculate sum and product
+
+6.program6.cpp:calculate age in months
+
+7.program7.cpp:calculate total and average
+
+8.program8.cpp:temperature in celsius
+
+9.program9.cpp:find maximum number
+
+10.program10.cpp:convert miles into km
+
+11.program11.cpp:calculate average
+
+12.program12.cpp:volume of cylinder
+
+13.program13.cpp:area of circle
+
+14.program14.cpp:convert mm into inches
+
+15.program15.cpp:interchange values
+
+16.program16.cpp:calculate product
+
+17.program17.cpp:separate integral and fractional part
+
+18.program18.cpp:value of s
+
+19.program19.cpp:age in months and days
+
+20.program20.cpp: print output using escape sequence
+
+21.program21.cpp:print output using \n escape sequence
+
+22.program22.cpp:print data of student
+
+23.program23.cpp:area and circumference of circle
+
+24.program24.cpp: calculate total and average
+
+25.program25.cpp:area of triangle
+
+26.program26.cpp:convert rupees into dollars
+
+27.program27.cpp:convert time in seconds
+
+28.program28.cpp:value of disc
+
+29.program29.cpp:n is greater than 100
+
+30.program30.cpp:test integer is odd or even
